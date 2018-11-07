@@ -1,0 +1,1656 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"in",
+				"inventory\tstatement"
+			],
+			[
+				"play",
+				"player_turn_results"
+			],
+			[
+				"item",
+				"item_use_results\tstatement"
+			],
+			[
+				"item_",
+				"item_use_results\tstatement"
+			],
+			[
+				"P",
+				"PLAYER_DEAD\tstatement"
+			],
+			[
+				"game_",
+				"game_states\tmodule"
+			],
+			[
+				"scre",
+				"screen_height\tparam"
+			],
+			[
+				"scr",
+				"screen_height\tparam"
+			],
+			[
+				"sc",
+				"screen_height"
+			],
+			[
+				"console_p",
+				"console_print_rect_ex\tfunction"
+			],
+			[
+				"console_set_def",
+				"console_set_default_foreground\tfunction"
+			],
+			[
+				"he",
+				"height\tstatement"
+			],
+			[
+				"con",
+				"console_new\tfunction"
+			],
+			[
+				"console_g",
+				"console_get_height\tfunction"
+			],
+			[
+				"E",
+				"ENEMY_TURN"
+			],
+			[
+				"max_",
+				"max_items_per_room\tstatement"
+			],
+			[
+				"number",
+				"number_of_items\tstatement"
+			],
+			[
+				"max",
+				"max_items_per_room\tparam"
+			],
+			[
+				"console_prin",
+				"console_print_ex\tfunction"
+			],
+			[
+				"light_gr",
+				"light_gray\tstatement"
+			],
+			[
+				"map_is",
+				"map_is_in_fov\tfunction"
+			],
+			[
+				"nam",
+				"name"
+			],
+			[
+				"EV",
+				"EVENT_MOUSE\tstatement"
+			],
+			[
+				"console_pr",
+				"console_print_ex\tfunction"
+			],
+			[
+				"Mes",
+				"Message\tclass"
+			],
+			[
+				"Message",
+				"MessageLog\tclass"
+			],
+			[
+				"panel",
+				"panel_y\tparam"
+			],
+			[
+				"screen",
+				"screen_width\tparam"
+			],
+			[
+				"console",
+				"console_blit\tfunction"
+			],
+			[
+				"console_set",
+				"console_set_default_foreground\tfunction"
+			],
+			[
+				"bar_",
+				"bar_width\tstatement"
+			],
+			[
+				"render",
+				"render_functions\tmodule"
+			],
+			[
+				"console_s",
+				"console_set_default_foreground\tfunction"
+			],
+			[
+				"ki",
+				"kill_player\tfunction"
+			],
+			[
+				"dead",
+				"dead_entity"
+			],
+			[
+				"ene",
+				"enemy_turn_result"
+			],
+			[
+				"enemy",
+				"enemy_turn_results"
+			],
+			[
+				"player",
+				"player_turn_result"
+			],
+			[
+				"pl",
+				"player_turn_results"
+			],
+			[
+				"att",
+				"attack_results\tstatement"
+			],
+			[
+				"lib",
+				"libtcod"
+			],
+			[
+				"comp",
+				"components\tmodule"
+			],
+			[
+				"Gam",
+				"GameStates\tclass"
+			],
+			[
+				"game",
+				"game_state"
+			],
+			[
+				"destion",
+				"destination_y\tstatement"
+			],
+			[
+				"dest",
+				"destination_y\tstatement"
+			],
+			[
+				"en",
+				"entities\tstatement"
+			],
+			[
+				"mao",
+				"map_is_in_fov\tfunction"
+			],
+			[
+				"room",
+				"room_min_xize\tparam"
+			],
+			[
+				"Rect",
+				"Rect\tclass"
+			],
+			[
+				"BKG",
+				"BKGND_SET\tstatement"
+			],
+			[
+				"cons",
+				"console_get_default_foreground\tfunction"
+			],
+			[
+				"screen_",
+				"screen_width\tstatement"
+			],
+			[
+				"console_",
+				"console_blit\tfunction"
+			],
+			[
+				"console_new",
+				"console_new\tfunction"
+			],
+			[
+				"co",
+				"console_is_fullscreen\tfunction"
+			],
+			[
+				"KE",
+				"KEY_ESCAPE\tstatement"
+			],
+			[
+				"KEY_",
+				"KEY_ENTER\tstatement"
+			],
+			[
+				"K",
+				"KEY_ESCAPE\tstatement"
+			],
+			[
+				"FONT",
+				"FONT_LAYOUT_TCOD\tstatement"
+			],
+			[
+				"QuoteGrid",
+				"QuoteGrid"
+			],
+			[
+				"bacground",
+				"background-color\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"center",
+				"centerOfChip"
+			],
+			[
+				"Type_PreComp_MED",
+				"Type_PreComp_MEDLONG"
+			],
+			[
+				"tra",
+				"transitionName"
+			],
+			[
+				"newTrans",
+				"newTransText"
+			],
+			[
+				"tran",
+				"transitionSelect"
+			],
+			[
+				"o",
+				"outlineTextSelect"
+			],
+			[
+				"trans",
+				"transTextName"
+			],
+			[
+				"transition",
+				"transitionName"
+			],
+			[
+				"askYes",
+				"askYesNo2"
+			],
+			[
+				"vector",
+				"vector\tstandard header"
+			],
+			[
+				"default",
+				"default"
+			],
+			[
+				"valid_",
+				"valid_max"
+			],
+			[
+				"Display_",
+				"DISPLAY_PIXEL"
+			],
+			[
+				"popu",
+				"popup_string"
+			],
+			[
+				"display",
+				"DISPLAY_PIXEL"
+			],
+			[
+				"valid",
+				"valid_max"
+			],
+			[
+				"val",
+				"valid_min"
+			],
+			[
+				"slider",
+				"slider_max"
+			],
+			[
+				"sli",
+				"slider_min"
+			],
+			[
+				"de",
+				"default_y"
+			],
+			[
+				"defau",
+				"default_green"
+			],
+			[
+				"ew",
+				"ew"
+			],
+			[
+				"__",
+				"__name__"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "engine.py",
+			"settings":
+			{
+				"buffer_size": 8150,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "game_states.py",
+			"settings":
+			{
+				"buffer_size": 275,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "input_handlers.py",
+			"settings":
+			{
+				"buffer_size": 2545,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "components/inventory.py",
+			"settings":
+			{
+				"buffer_size": 2282,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Searching 1711 files for \"game_state\" (regex)\n\nC:\\Users\\rjjan\\Documents\\Projects\\RoguelikeTutorial\\death_functions.py:\n    4  \n    5  from game_messages import Message\n    6: from game_states import GameStates\n    7  from render_functions import RenderOrder\n    8  \n\nC:\\Users\\rjjan\\Documents\\Projects\\RoguelikeTutorial\\engine.py:\n    9  from fov_functions import initialize_fov, recompute_fov\n   10  from game_messages import Message, MessageLog\n   11: from game_states import GameStates\n   12  from input_handlers import handle_keys\n   13  from map_objects.game_map import GameMap\n   ..\n   81      mouse = libtcod.Mouse()\n   82  \n   83:     game_state = GameStates.PLAYERS_TURN\n   84:     previous_game_state = game_state\n   85  \n   86      # MAIN LOOP\n   ..\n   95          render_all(con, panel, entities, player, game_map, fov_map,\n   96                     fov_recompute, message_log, screen_width, screen_height,\n   97:                    bar_width, panel_height, panel_y, mouse, colors, game_state)\n   98  \n   99          fov_recompute = False\n  ...\n  103          clear_all(con, entities)\n  104  \n  105:         action = handle_keys(key, game_state)\n  106  \n  107          move = action.get('move')\n  ...\n  115          player_turn_results = []\n  116  \n  117:         if move and game_state == GameStates.PLAYERS_TURN:\n  118              dx, dy = move\n  119              destination_x = player.x + dx\n  ...\n  133                      fov_recompute = True\n  134  \n  135:                 game_state = GameStates.ENEMY_TURN\n  136  \n  137:         elif pickup and game_state == GameStates.PLAYERS_TURN:\n  138              for entity in entities:\n  139                  if (entity.item and entity.x == player.x and\n  ...\n  149  \n  150          if show_inventory:\n  151:             previous_game_state = game_state\n  152:             game_state = GameStates.SHOW_INVENTORY\n  153  \n  154          if drop_inventory:\n  155:             previous_game_state = game_state\n  156:             game_state = GameStates.DROP_INVENTORY\n  157  \n  158          if (inventory_index is not None and\n  159:                 previous_game_state != GameStates.PLAYER_DEAD and\n  160                  inventory_index < len(player.inventory.items)):\n  161              item = player.inventory.items[inventory_index]\n  ...\n  163  \n  164          if exit:\n  165:             if game_state in (GameStates.SHOW_INVENTORY,\n  166                                GameStates.DROP_INVENTORY):\n  167:                 game_state = previous_game_state\n  168              else:\n  169                  return True\n  ...\n  183              if dead_entity:\n  184                  if dead_entity == player:\n  185:                     message, game_state = kill_player(dead_entity)\n  186                  else:\n  187                      message = kill_monster(dead_entity)\n  ...\n  192                  entities.remove(item_added)\n  193  \n  194:                 game_state = GameStates.ENEMY_TURN\n  195  \n  196              if item_consumed:\n  197:                 game_state = GameStates.ENEMY_TURN\n  198  \n  199:         if game_state == GameStates.ENEMY_TURN:\n  200              for entity in entities:\n  201                  if entity.ai:\n  ...\n  212                          if dead_entity:\n  213                              if dead_entity == player:\n  214:                                 message, game_state = kill_player(dead_entity)\n  215                              else:\n  216                                  message = kill_monster(dead_entity)\n  ...\n  218                              message_log.add_message(message)\n  219  \n  220:                             if game_state == GameStates.PLAYER_DEAD:\n  221                                  break\n  222  \n  223:                     if game_state == GameStates.PLAYER_DEAD:\n  224                          break\n  225  \n  226              else:\n  227:                 game_state = GameStates.PLAYERS_TURN\n  228  \n  229  if __name__ == '__main__':\n\nC:\\Users\\rjjan\\Documents\\Projects\\RoguelikeTutorial\\input_handlers.py:\n    3  import libtcodpy as libtcod\n    4  \n    5: from game_states import GameStates\n    6  \n    7  \n    8: def handle_keys(key, game_state):\n    9      \"\"\"Assign different key handler based on game state.\"\"\"\n   10:     if game_state == GameStates.PLAYERS_TURN:\n   11          return handle_player_turn_keys(key)\n   12:     elif game_state == GameStates.PLAYER_DEAD:\n   13          return handle_player_dead_keys(key)\n   14:     elif game_state in (GameStates.SHOW_INVENTORY, GameStates.DROP_INVENTORY):\n   15          return handle_inventory_keys(key)\n   16  \n\nC:\\Users\\rjjan\\Documents\\Projects\\RoguelikeTutorial\\render_functions.py:\n    4  from enum import Enum\n    5  \n    6: from game_states import GameStates\n    7  from menus import inventory_menu\n    8  \n    .\n   50  def render_all(con, panel, entities, player, game_map, fov_map, fov_recompute,\n   51                 message_log, screen_width, screen_height, bar_width,\n   52:                panel_height, panel_y, mouse, colors, game_state):\n   53      \"\"\"Draw all entities in list and game map.\"\"\"\n   54      # Draw all the tiles in the game map\n   ..\n  113                           panel_y)\n  114  \n  115:     if game_state == GameStates.SHOW_INVENTORY:\n  116          inventory_menu(\n  117              con,\n\n36 matches across 4 files\n",
+			"settings":
+			{
+				"buffer_size": 5342,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "render_functions.py",
+			"settings":
+			{
+				"buffer_size": 5410,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "item_functions.py",
+			"settings":
+			{
+				"buffer_size": 715,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "menus.py",
+			"settings":
+			{
+				"buffer_size": 1769,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "components/fighter.py",
+			"settings":
+			{
+				"buffer_size": 1462,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "map_objects/game_map.py",
+			"settings":
+			{
+				"buffer_size": 6325,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "entity.py",
+			"settings":
+			{
+				"buffer_size": 5099,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 359.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Preferences: GitGutter Settings"
+			],
+			[
+				"diff",
+				"Diffy Cleanup"
+			],
+			[
+				"virtu",
+				"Virtualenv: Activate"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"sync",
+				"Sync Settings: Download"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"syn",
+				"Sync Settings: Download"
+			],
+			[
+				"n",
+				"Nodejs::User File Settings"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insatll",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"view in bro",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set",
+				"Set Syntax: HTML"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"subline",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"vir",
+				"Virtualenv: Activate"
+			],
+			[
+				"virt",
+				"Virtualenv: Activate"
+			],
+			[
+				"server",
+				"SublimeServer: Stop SublimeServer"
+			],
+			[
+				"build",
+				"Build With: C++ Single File - Run"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/rjjan/Documents/Projects/RoguelikeTutorial",
+		"/C/Users/rjjan/Documents/Projects/RoguelikeTutorial/components",
+		"/C/Users/rjjan/Documents/Projects/RoguelikeTutorial/map_objects"
+	],
+	"file_history":
+	[
+		"/C/Users/rjjan/Documents/Projects/RoguelikeTutorial/menus.py",
+		"/C/Users/rjjan/Documents/Projects/RoguelikeTutorial/render_functions.py",
+		"/C/Users/rjjan/Documents/Projects/RoguelikeTutorial/game_messages.py",
+		"/C/Users/rjjan/Documents/Projects/RoguelikeTutorial/input_handlers.py",
+		"/C/Users/rjjan/Documents/Projects/RoguelikeTutorial/death_functions.py",
+		"/C/Users/rjjan/Documents/Projects/RoguelikeTutorial/components/item.py",
+		"/C/Users/rjjan/Documents/Projects/RoguelikeTutorial/Roguelike.sublime-project",
+		"/C/Users/rjjan/Documents/Projects/RoguelikeTutorial/game_states.py",
+		"/C/Users/rjjan/Documents/Projects/RoguelikeTutorial/components/fighter.py",
+		"/C/Users/rjjan/Documents/Projects/RoguelikeTutorial/components/ai.py",
+		"/C/Users/rjjan/Documents/Projects/RoguelikeTutorial/map_objects/game_map.py",
+		"/C/Users/rjjan/Documents/Projects/RoguelikeTutorial/entity.py",
+		"/C/Users/rjjan/Documents/Projects/RoguelikeTutorial/map_objects/tile.py",
+		"/C/Users/rjjan/Documents/Projects/RoguelikeTutorial/fov_functions.py",
+		"/C/Users/rjjan/Documents/Projects/RoguelikeTutorial/components/__init__.py",
+		"/C/Users/rjjan/Documents/Projects/RoguelikeTutorial/map_objects/rectangle.py",
+		"/C/Users/rjjan/Documents/Projects/RoguelikeTutorial/map_objects/__init__.py",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/EloquentJS/phi_correlation.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/MegaMillions_csv_python/webExample.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/MegaMillions_csv_python/megamillions.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/curried.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/MegaMillions_csv_python/megamillions.py",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/MegaMillions_csv_python/index.html",
+		"/C/Users/rjjan/Desktop/deleteme/testing.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/romanNumerals-alt.js",
+		"/C/Users/rjjan/AppData/Roaming/Sublime Text 3/Packages/User/SyncSettings.sublime-settings",
+		"/C/Users/rjjan/AppData/Local/Temp/flow/flowlib_2736230d/node.js",
+		"/C/Users/rjjan/AppData/Roaming/Sublime Text 3/Packages/User/SublimeServer.sublime-settings",
+		"/F/RandyGJanney.gpg",
+		"/C/Users/rjjan/Documents/4034E04AF78322F440FB21378970B3813B0CD012.asc",
+		"/E/README.diskdefines",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/cashRegister.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/phone.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/romanNumerals.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/optionaArgs.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/urlSlugify_every_some.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/sumAll.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/dropIt.js",
+		"/D/Movies/LoneSurvivor/Lone.Survivor.2013.DVDSCR.x264-EBX.nfo",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/smallestcommon.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/flattenArray.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/binaryascii.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/truthyProps.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/getset.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/orbitalPeriod.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/reduceunique.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/convertHTMLentities.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/fibonacci.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/sumprimes.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/findMissingLetterInSeq.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/dna.js",
+		"/Users/206098175/Desktop/2018/10/02/cep-sample-extension-master/testExtension/js/main.js",
+		"/C/Users/rjjan/AppData/Roaming/Sublime Text 3/Packages/Nodejs/Nodejs.sublime-build",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/searchreplace.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/iglatinpay.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/spinalTap.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/whatsInAName.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/freeCodeCamp_JS/diffArray.js",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/HelloWorld/CSXS/manifest.xml",
+		"/C/Users/rjjan/Documents/Projects/after-effects_nodeJS/hello.js",
+		"/Users/206098175/Library/Application Support/Adobe/CEP/extensions/testExtension/index.html",
+		"/Users/206098175/Library/Application Support/Adobe/CEP/extensions/testExtension/ext/tool.jsfl",
+		"/Users/206098175/Library/Application Support/Adobe/CEP/extensions/testExtension/ext/tool.jsx",
+		"/Users/206098175/Library/Application Support/Adobe/CEP/extensions/HelloWorld/CSXS/manifest.xml",
+		"/Users/206098175/Library/Application Support/Adobe/CEP/extensions/testExtension/CSXS/manifest.xml",
+		"/Users/206098175/Library/Application Support/Adobe/CEP/extensions/testExtension/js/main.js",
+		"/Users/206098175/Library/Application Support/Adobe/CEP/extensions/testExtension/js/main0.js",
+		"/Users/206098175/Projects/after-effects/README.md",
+		"/Users/206098175/Projects/after-effects/HelloWorld/index.html",
+		"/Users/206098175/Library/Preferences/com.adobe.CSXS.5.plist",
+		"/Users/206098175/Projects/after-effects/test_project.aep",
+		"/Users/206098175/Projects/after-effects/index.js",
+		"/Users/206098175/Projects/after-effects/myfirstmodule.js",
+		"/Users/206098175/Projects/after-effects/hello.js",
+		"/Users/206098175/Projects/nexrender-boilerplate/start.js",
+		"/Users/206098175/Desktop/2018/09/28/Connect_Vertex_to_Point.jsx",
+		"/Users/206098175/Desktop/2018/09/28/basic-expression-injector-master/Expression Injector.jsx",
+		"/Users/206098175/Desktop/2018/09/28/ae-save-and-load-data-master/Save and Load Data.jsx",
+		"/Users/206098175/Desktop/2018/09/28/654510-51f9363689d9c7764f6fab31581103f95d0e5cff/json2.js",
+		"/Users/206098175/Desktop/2018/09/28/json2.js",
+		"/Users/206098175/Desktop/2018/09/28/Extendables-master/examples/files-and-folders.jsx",
+		"/Users/206098175/Desktop/2018/09/28/Extendables-master/settings.jsx",
+		"/Users/206098175/Desktop/2018/09/28/Extendables-master/tools/testrunner.jsx",
+		"/Users/206098175/Desktop/2018/09/28/Extendables-master/examples/xml-traversal.jsx",
+		"/Users/206098175/Desktop/2018/09/28/Extendables-master/examples/basic.jsx",
+		"/Users/206098175/Desktop/2018/09/28/Extendables-master/doc/index.rst",
+		"/Users/206098175/Desktop/2018/09/28/Extendables-master/context.jsx",
+		"/Users/206098175/Desktop/glob.py",
+		"/Users/206098175/Desktop/list.txt",
+		"/Users/206098175/Desktop/toThumb/OneTab_WorkSync/.git/COMMIT_EDITMSG",
+		"/Users/206098175/Desktop/2018/09/27/dropDownDemo/dropDownDemo.jsx",
+		"/Users/206098175/Desktop/2018/09/27/socket_simpler.py",
+		"/Users/206098175/Desktop/2018/09/27/talk_to_AE.py",
+		"/Users/206098175/Desktop/2018/09/27/rigged-projects-master/drive-text-color/capitol-cities.json",
+		"/Users/206098175/Desktop/2018/09/27/rigged-projects-master/display-albums/albums.json",
+		"/Users/206098175/Desktop/DTApps/mongoose.conf",
+		"/Users/206098175/Desktop/2018/09/27/mimic2.2/test/qunit/qunit.js",
+		"/Users/206098175/Desktop/2018/09/27/geturl/GetURLs.jsx",
+		"/Volumes/GFX2/Graphics/MISC/Lists/SearchGFX2_pypy.py",
+		"/Volumes/GFX2/Graphics/MISC/Lists/fun_with_sets.py",
+		"/Users/206098175/touch",
+		"/Users/206098175/Desktop/2018/09/25/notes.txt",
+		"/Volumes/GFX2/Graphics/MISC/Lists/Concat_Lists.py",
+		"/Users/206098175/data_file.json",
+		"/Users/206098175/Keeper/AEStuff/Files.jsx",
+		"/Users/206098175/Keeper/AEStuff/Tournament_elements_script.jsx",
+		"/Applications/Adobe After Effects CC 2014/Scripts/Tournament_elements_script.jsx",
+		"/Users/206098175/Desktop/EURO.txt",
+		"/Users/206098175/Desktop/EURO_Dirs.py",
+		"/Users/206098175/Desktop/WEB.txt",
+		"/Users/206098175/Desktop/CHAMPS_Dirs.py",
+		"/Users/206098175/Desktop/CHAMPS.txt",
+		"/Users/206098175/Desktop/LPGA_Tourneys.txt",
+		"/Users/206098175/Desktop/LPGA_Dirs.py",
+		"/Users/206098175/Desktop/test.js",
+		"/Users/206098175/Desktop/test_file_write.html",
+		"/Users/206098175/Desktop/toThumb/OneTab_WorkSync/one-on-one meeting agenda.txt",
+		"/Users/206098175/Projects/lists/make_directories_mac.py",
+		"/Users/206098175/Desktop/Monday/Paris_Gettys.txt",
+		"/Users/206098175/Projects/VUEJS/V10777_Code/S10/progress-bar.html",
+		"/Users/206098175/Projects/VUEJS/V10777_Code/S10/Finished/src/components/QuoteGrid.vue",
+		"/Users/206098175/Projects/vue-first/src/components/NewQuote.vue",
+		"/Users/206098175/Projects/vue-first/src/App.vue",
+		"/Users/206098175/Projects/vue-first/src/components/QuoteGrid.vue",
+		"/Users/206098175/Projects/VUEJS/V10777_Code/S10/Finished/src/App.vue",
+		"/Users/206098175/Projects/vue-first/webpack.config.js",
+		"/Users/206098175/Projects/vue-first/src/components/Quote.vue",
+		"/Users/206098175/Desktop/counter.py"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 118.4,
+		"where_history":
+		[
+			"<current file>,<open folders>",
+			"<current file>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"game_state",
+			"panel",
+			"y",
+			"screen",
+			"mouse",
+			"print",
+			"max_rooms",
+			"room_min_size",
+			"rect",
+			"data",
+			"tens"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"ones"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "engine.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8150,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4879,
+								4879
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"complete_parameters": false,
+							"git_gutter_is_enabled": false,
+							"highlight_line": true,
+							"origPos":
+							[
+								0.0,
+								2176.0
+							],
+							"syncScroll": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"vim":
+							{
+								":sels:":
+								[
+									[
+										982,
+										982
+									]
+								],
+								":visual_mode:": "visual",
+								"xpos": 0,
+								"xposa": null
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 2176.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "game_states.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 275,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								275,
+								275
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": false,
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"syncScroll": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"vim":
+							{
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "input_handlers.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2545,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2545,
+								2545
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": false,
+							"origPos":
+							[
+								0.0,
+								732.0
+							],
+							"syncScroll": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"vim":
+							{
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 732.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "components/inventory.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2282,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2282,
+								2282
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": false,
+							"open_with_edit": true,
+							"origPos":
+							[
+								0.0,
+								598.4
+							],
+							"syncScroll": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"vim":
+							{
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 598.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5342,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										180,
+										190
+									],
+									[
+										458,
+										468
+									],
+									[
+										642,
+										652
+									],
+									[
+										699,
+										709
+									],
+									[
+										712,
+										722
+									],
+									[
+										993,
+										1003
+									],
+									[
+										1145,
+										1155
+									],
+									[
+										1287,
+										1297
+									],
+									[
+										1493,
+										1503
+									],
+									[
+										1567,
+										1577
+									],
+									[
+										1793,
+										1803
+									],
+									[
+										1806,
+										1816
+									],
+									[
+										1836,
+										1846
+									],
+									[
+										1945,
+										1955
+									],
+									[
+										1958,
+										1968
+									],
+									[
+										1988,
+										1998
+									],
+									[
+										2118,
+										2128
+									],
+									[
+										2356,
+										2366
+									],
+									[
+										2486,
+										2496
+									],
+									[
+										2508,
+										2518
+									],
+									[
+										2705,
+										2715
+									],
+									[
+										2923,
+										2933
+									],
+									[
+										3026,
+										3036
+									],
+									[
+										3087,
+										3097
+									],
+									[
+										3366,
+										3376
+									],
+									[
+										3640,
+										3650
+									],
+									[
+										3761,
+										3771
+									],
+									[
+										3892,
+										3902
+									],
+									[
+										4098,
+										4108
+									],
+									[
+										4172,
+										4182
+									],
+									[
+										4266,
+										4276
+									],
+									[
+										4372,
+										4382
+									],
+									[
+										4477,
+										4487
+									],
+									[
+										4727,
+										4737
+									],
+									[
+										5032,
+										5042
+									],
+									[
+										5219,
+										5229
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								5290,
+								5290
+							]
+						],
+						"settings":
+						{
+							"default_dir": "C:\\Users\\rjjan\\Documents\\Projects\\RoguelikeTutorial",
+							"detect_indentation": false,
+							"git_gutter_is_enabled": false,
+							"line_numbers": false,
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"vim":
+							{
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 1696.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "render_functions.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5410,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5130,
+								5130
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": false,
+							"highlight_line": true,
+							"origPos":
+							[
+								0.0,
+								1496.8
+							],
+							"syncScroll": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"vim":
+							{
+								"xpos": 33
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "item_functions.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 715,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								569,
+								569
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": false,
+							"open_with_edit": true,
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"syncScroll": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"vim":
+							{
+								"xpos": 29
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "menus.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1769,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"syncScroll": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"vim":
+							{
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "components/fighter.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1462,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								576,
+								576
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": false,
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"syncScroll": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"vim":
+							{
+								"xpos": 20
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "map_objects/game_map.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6325,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								215,
+								215
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"complete_parameters": false,
+							"git_gutter_is_enabled": false,
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"syncScroll": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"vim":
+							{
+								"xpos": 15
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "entity.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5099,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								706,
+								706
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": false,
+							"origPos":
+							[
+								0.0,
+								1914.4
+							],
+							"syncScroll": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"vim":
+							{
+								"xpos": 34
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 44.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 164.0
+	},
+	"output.find_results":
+	{
+		"height": 126.0
+	},
+	"output.markdown":
+	{
+		"height": 120.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Virtualenv/Python + Virtualenv.sublime-build",
+	"project": "Roguelike.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_reset_during_init": true,
+		"vim":
+		{
+			":command:":
+			[
+				"<:history:>",
+				"i"
+			],
+			":history:":
+			[
+				[
+					"move",
+					{
+						"by": "lines",
+						"forward": true
+					}
+				]
+			],
+			"alternate_view": 178,
+			"last_command_line": null,
+			"last_search_pattern": null
+		},
+		"vintage":
+		{
+			"_cmdline_cd": "C:\\Users\\rjjan\\Documents\\Projects\\after-effects_nodeJS\\freeCodeCamp_JS"
+		}
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
