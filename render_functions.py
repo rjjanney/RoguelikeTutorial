@@ -1,18 +1,19 @@
 """Handles the list of entities to render to screen."""
 import libtcodpy as libtcod
 
-from enum import Enum
+from enum import Enum, auto
 
 from game_states import GameStates
-from menus import inventory_menu
+from menus import character_screen, inventory_menu, level_up_menu
 
 
 class RenderOrder(Enum):
     """Render order so player always renders above dead monsters."""
 
-    CORPSE = 1
-    ITEM = 2
-    ACTOR = 3
+    STAIRS = auto()
+    CORPSE = auto()
+    ITEM = auto()
+    ACTOR = auto()
 
 
 def get_names_under_mouse(mouse, entities, fov_map):
@@ -80,12 +81,11 @@ def render_all(con, panel, entities, player, game_map, fov_map, fov_recompute,
                             con, x, y, colors.get('dark_ground'),
                             libtcod.BKGND_SET)
 
-    # Draw all entities in the list
     entities_in_render_order = sorted(
         entities, key=lambda x: x.render_order.value)
-
+    # Draw all entities in the list
     for entity in entities_in_render_order:
-        draw_entity(con, entity, fov_map)
+        draw_entity(con, entity, fov_map, game_map)
 
     libtcod.console_blit(con, 0, 0, screen_width, screen_height,
                          0, 0, 0)
@@ -104,6 +104,9 @@ def render_all(con, panel, entities, player, game_map, fov_map, fov_recompute,
 
     render_bar(panel, 1, 1, bar_width, 'HP', player.fighter.hp,
                player.fighter.max_hp, libtcod.light_red, libtcod.darker_red)
+    libtcod.console_print_ex(
+        panel, 1, 3, libtcod.BKGND_NONE, libtcod.LEFT,
+        'Dungeon level: {0}'.format(game_map.dungeon_level))
 
     libtcod.console_set_default_foreground(panel, libtcod.light_gray)
     libtcod.console_print_ex(panel, 1, 0, libtcod.BKGND_NONE, libtcod.LEFT,
@@ -122,7 +125,15 @@ def render_all(con, panel, entities, player, game_map, fov_map, fov_recompute,
 
         inventory_menu(
             con, inventory_title,
-            player.inventory, 50, screen_width, screen_height)
+            player, 50, screen_width, screen_height)
+
+    elif game_state == GameStates.LEVEL_UP:
+        level_up_menu(
+            con, 'Level up! Choose a stat to raise:', player, 40,
+            screen_width, screen_height)
+
+    elif game_state == GameStates.CHARACTER_SCREEN:
+        character_screen(player, 30, 10, screen_width, screen_height)
 
 
 def clear_all(con, entities):
@@ -131,9 +142,11 @@ def clear_all(con, entities):
         clear_entity(con, entity)
 
 
-def draw_entity(con, entity, fov_map):
+def draw_entity(con, entity, fov_map, game_map):
     """Deal with individual entity drawing."""
-    if libtcod.map_is_in_fov(fov_map, entity.x, entity.y):
+    if libtcod.map_is_in_fov(
+            fov_map, entity.x, entity.y) or (
+            entity.stairs and game_map.tiles[entity.x][entity.y].explored):
         libtcod.console_set_default_foreground(con, entity.color)
         libtcod.console_put_char(con, entity.x, entity.y, entity.char,
                                  libtcod.BKGND_NONE)

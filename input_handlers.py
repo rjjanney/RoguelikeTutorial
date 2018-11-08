@@ -15,6 +15,10 @@ def handle_keys(key, game_state):
         return handle_targeting_keys(key)
     elif game_state in (GameStates.SHOW_INVENTORY, GameStates.DROP_INVENTORY):
         return handle_inventory_keys(key)
+    elif game_state == GameStates.LEVEL_UP:
+        return handle_level_up_menu(key)
+    elif game_state == GameStates.CHARACTER_SCREEN:
+        return handle_character_screen(key)
 
     return {}
 
@@ -39,15 +43,18 @@ def handle_player_turn_keys(key):
         return {'move': (-1, 1)}
     elif key_char == 'n':
         return {'move': (1, 1)}
-
-    if key_char == 'g':
+    elif key_char == 'z':
+        return {'wait': True}
+    elif key_char == 'g':
         return {'pickup': True}
-
-    if key_char == 'i':
+    elif key_char == 'i':
         return {'show_inventory': True}
-
-    if key_char == 'd':
+    elif key_char == 'd':
         return {'drop_inventory': True}
+    elif key.vk == libtcod.KEY_ENTER and not key.lalt:
+        return {'take_stairs': True}
+    elif key_char == 'c':
+        return {'show_character_screen': True}
 
     if key.vk == libtcod.KEY_ENTER and key.lalt:
         # Alt+Enter: toggle full screen
@@ -96,6 +103,43 @@ def handle_player_dead_keys(key):
 
 def handle_targeting_keys(key):
     """Handle input from keyboard while choosing target."""
+    if key.vk == libtcod.KEY_ESCAPE:
+        return {'exit': True}
+
+    return {}
+
+
+def handle_main_menu(key):
+    """Handle the input during the Main Menu screen."""
+    key_char = chr(key.c)
+
+    if key_char == "a":
+        return {'new_game': True}
+    elif key_char == "b":
+        return {'load_game': True}
+    elif key_char == 'c' or key.vk == libtcod.KEY_ESCAPE:
+        return {'exit': True}
+
+    return {}
+
+
+def handle_level_up_menu(key):
+    """Handle the input during the Level Up screen."""
+    if key:
+        key_char = chr(key.c)
+
+        if key_char == 'a':
+            return {'level_up': 'hp'}
+        elif key_char == 'b':
+            return {'level_up': 'str'}
+        elif key_char == 'c':
+            return {'level_up': 'def'}
+
+    return {}
+
+
+def handle_character_screen(key):
+    """Just escape key for chracter screen."""
     if key.vk == libtcod.KEY_ESCAPE:
         return {'exit': True}
 
