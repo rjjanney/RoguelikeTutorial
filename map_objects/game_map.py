@@ -151,7 +151,7 @@ class GameMap:
             'lightning_scroll': from_dungeon_level(
                 [[25, 4]], self.dungeon_level),
             'sword': from_dungeon_level(
-                [[5, 4]], self.dungeon_level),
+                [[10, 4]], self.dungeon_level),
             'shield': from_dungeon_level(
                 [[25, 8]], self.dungeon_level),
             'fireball_scroll': from_dungeon_level(
