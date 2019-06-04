@@ -1,6 +1,6 @@
 """Inventory class. Helper class for keeping track of items player has."""
 
-import libtcodpy as libtcod
+import tcod as libtcod
 
 from game_messages import Message
 

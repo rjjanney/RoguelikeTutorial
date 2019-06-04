@@ -1,6 +1,6 @@
 """Initialize variables for new game."""
 
-import libtcodpy as libtcod
+import tcod as libtcod
 
 from components.equipment import Equipment
 from components.equippable import Equippable

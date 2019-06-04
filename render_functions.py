@@ -1,5 +1,5 @@
 """Handles the list of entities to render to screen."""
-import libtcodpy as libtcod
+import tcod as libtcod
 
 from enum import Enum, auto
 

@@ -1,6 +1,6 @@
 """AI for the behavior of different classes of opponents."""
 
-import libtcodpy as libtcod
+import tcod as libtcod
 
 from random import randint
 

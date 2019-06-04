@@ -1,6 +1,6 @@
 """Fighter class is component to keep track of hp etc."""
 
-import libtcodpy as libtcod
+import tcod as libtcod
 
 from game_messages import Message
 

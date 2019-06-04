@@ -1,6 +1,6 @@
 """Hold the functions of the various items."""
 
-import libtcodpy as libtcod
+import tcod as libtcod
 
 from components.ai import ConfusedMonster
 from game_messages import Message

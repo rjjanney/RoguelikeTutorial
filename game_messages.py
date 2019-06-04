@@ -1,6 +1,6 @@
 """Implement the message log. Two classes."""
 
-import libtcodpy as libtcod
+import tcod as libtcod
 
 import textwrap
 
